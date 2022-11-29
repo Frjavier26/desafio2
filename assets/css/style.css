@@ -21,6 +21,7 @@ h2{
 
 body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: blanchedalmond;
 }
 
 .products {
@@ -41,8 +42,8 @@ body {
 .footer {
     height: 3em;
     line-height: 3em;
-    background-color: rgb(245, 149, 197);
+    background-color: rgb(163, 138, 150);
     color: white;
-    text-align: center;
+    text-align: left;
     font-weight: 900;
 }
